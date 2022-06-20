@@ -31,6 +31,10 @@
     {
       "tag": "Database",
       "shape": "Cylinder"
+    },
+    {
+      "tag": "Customer",
+      "background": "#39ab3f"
     }
    ]
   }
